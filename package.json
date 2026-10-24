@@ -1,0 +1,9 @@
+{
+  "name": "birthday-site",
+  "version": "1.0.0",
+  "description": "Birthday Surprise PWA ready to serve and upload",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js"
+  }
+}
